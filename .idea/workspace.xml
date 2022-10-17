@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8156c4e-536b-4a4a-8c3e-364045f9e198" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructureAlgorithm1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/List/ArrayListEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/List/MyALMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/List/MyArrayList1.java" afterDir="false" />
+    <list default="true" id="e8156c4e-536b-4a4a-8c3e-364045f9e198" name="Changes" comment="MyArrayList1">
+      <change afterPath="$PROJECT_DIR$/src/List/MyLLMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List/MyLinkedList0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List/MyLinkedList1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/List/ArrayListEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/ArrayListEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/List/MyALMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/MyALMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/List/MyArrayList1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/MyArrayList1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,17 +37,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.MyLLMain">
+    <configuration name="MyALMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="List.MyALMain" />
+      <module name="DataStructureAlgorithm1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyLLMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="List.MyLLMain" />
+      <module name="DataStructureAlgorithm1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyLLMain" />
+        <item itemvalue="Application.MyALMain" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,8 +90,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665936909327</updated>
-      <workItem from="1665936912573" duration="3139000" />
+      <workItem from="1665936912573" duration="5179000" />
+      <workItem from="1666023711306" duration="16494000" />
     </task>
+    <task id="LOCAL-00001" summary="MyArrayList1">
+      <created>1665940115368</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665940115368</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,5 +116,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="MyArrayList1" />
+    <option name="LAST_COMMIT_MESSAGE" value="MyArrayList1" />
   </component>
 </project>

@@ -1,7 +1,7 @@
 package List;
 
 import java.util.ArrayList;
-
+//4주차
 public class ArrayListEx {
     public static void main(String[] args){
         //array 만들기

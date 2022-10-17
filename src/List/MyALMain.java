@@ -1,5 +1,5 @@
 package List;
-
+//4주차
 public class MyALMain {
     public static void main(String[] args){
         //MyArrayList1 타입의 변수를 만드는 것.
