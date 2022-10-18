@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8156c4e-536b-4a4a-8c3e-364045f9e198" name="Changes" comment="MyArrayList1">
-      <change afterPath="$PROJECT_DIR$/src/List/MyLLMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/List/MyLinkedList0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/List/MyLinkedList1.java" afterDir="false" />
+    <list default="true" id="e8156c4e-536b-4a4a-8c3e-364045f9e198" name="Changes" comment="221018_MyData/NodeDL/DoubleLinkedList">
+      <change afterPath="$PROJECT_DIR$/src/List/MyArrayList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List/MyData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List/MyLinkedList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List/NodeDL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List/TestMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/ArrayListEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/ArrayListEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/MyALMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/MyALMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List/MyArrayList1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/MyArrayList1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MyLLMain">
+  <component name="RunManager" selected="Application.TestMain">
     <configuration name="MyALMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="List.MyALMain" />
       <module name="DataStructureAlgorithm1" />
@@ -75,8 +74,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="List.TestMain" />
+      <module name="DataStructureAlgorithm1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestMain" />
         <item itemvalue="Application.MyLLMain" />
         <item itemvalue="Application.MyALMain" />
       </list>
@@ -91,7 +104,8 @@
       <option name="presentableId" value="Default" />
       <updated>1665936909327</updated>
       <workItem from="1665936912573" duration="5179000" />
-      <workItem from="1666023711306" duration="16494000" />
+      <workItem from="1666023711306" duration="16539000" />
+      <workItem from="1666085583631" duration="10094000" />
     </task>
     <task id="LOCAL-00001" summary="MyArrayList1">
       <created>1665940115368</created>
@@ -100,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665940115368</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="221018_MyLinkedList0&amp;1">
+      <created>1666041190340</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666041190340</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +140,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="MyArrayList1" />
-    <option name="LAST_COMMIT_MESSAGE" value="MyArrayList1" />
+    <MESSAGE value="221018_MyLinkedList0&amp;1" />
+    <MESSAGE value="221018_MyData/NodeDL/DoubleLinkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="221018_MyData/NodeDL/DoubleLinkedList" />
   </component>
 </project>
